@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">風筝抢红包</string>
+    <string name="accessibility_description">启动微信和QQ抢红包服务（没完善好的，抽筋模式）</string>
+
+</resources>
